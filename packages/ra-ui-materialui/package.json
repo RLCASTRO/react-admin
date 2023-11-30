@@ -72,7 +72,7 @@
         "query-string": "^7.1.1",
         "react-dropzone": "^12.0.4",
         "react-error-boundary": "^3.1.4",
-        "react-query": "^3.32.1",
+        "react-query": "^4.0.0",
         "react-transition-group": "^4.4.1"
     },
     "gitHead": "b227592132da6ae5f01438fa8269e04596cdfdd8"
