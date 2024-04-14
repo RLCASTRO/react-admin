@@ -63,7 +63,7 @@
         "autosuggest-highlight": "^3.1.1",
         "clsx": "^1.1.1",
         "css-mediaquery": "^0.1.2",
-        "dompurify": "^2.4.3",
+        "dompurify": "^2.4.9",
         "hotscript": "^1.0.12",
         "inflection": "~1.12.0",
         "jsonexport": "^3.2.0",
