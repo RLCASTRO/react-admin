@@ -19,7 +19,7 @@
         "templates"
     ],
     "dependencies": {
-        "execa": "^5.1.1",
+        "execa": "^9.6.0",
         "fs-extra": "^11.1.1",
         "ink": "^3.2.0",
         "ink-select-input": "^4.2.2",
